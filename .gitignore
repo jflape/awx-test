@@ -1,5 +1,6 @@
 ### Added git ignore
-git*.sh
+git_*.sh
+**/git_*.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
