@@ -1,7 +1,7 @@
 ### Added git ignore
 git_*.sh
 **/git_*.sh
-
+token*.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
